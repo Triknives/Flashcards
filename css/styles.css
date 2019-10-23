@@ -1,0 +1,15 @@
+h1{
+  text-align: center;
+}
+.variables-def{
+  display:none;
+}
+.strings-def{
+  display:none;
+}
+.methods-def{
+  display:none;
+}
+.operators-def{
+  display:none;
+}
